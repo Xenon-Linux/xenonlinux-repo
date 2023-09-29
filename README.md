@@ -1,1 +1,1 @@
-# penguinArch repo
+# XenonLinux repo
